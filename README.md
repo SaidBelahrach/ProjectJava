@@ -13,8 +13,10 @@ cette app est connectée avec un serveur d'examens qui s'occupe de l'envoie d'ex
 </pre>
 
 <h2>Base de données:</h2>
+<pre>
 SGBD: Mysql
-Restaurer script de base de données: 
+Restaurer script de base de données: script-db.sql 
+</pre>
 
 <h2>Cahier de charge</h2>
 <pre>
