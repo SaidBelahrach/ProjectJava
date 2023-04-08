@@ -12,8 +12,9 @@ cette app est connectée avec un serveur d'examens qui s'occupe de l'envoie d'ex
    MySql. (wampserver)
 </pre>
 
-
-
+<h2>Base de données:</h2>
+SGBD: Mysql
+Restaurer script de base de données: 
 
 <h2>Cahier de charge</h2>
 <pre>
